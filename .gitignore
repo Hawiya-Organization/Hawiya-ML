@@ -1,0 +1,6 @@
+*.csv
+*.yaml
+*.sql 
+*.pyc
+*.mdl*
+*.out*
